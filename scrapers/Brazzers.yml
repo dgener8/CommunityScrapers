@@ -3,7 +3,6 @@ sceneByURL:
   - action: scrapeXPath
     url:
       - brazzers.com/video
-      - brazzers.com/scene
       - men.com/sceneid/
       - realitykings.com/scene/
     scraper: sceneScraper
